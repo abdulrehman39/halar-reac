@@ -1,5 +1,5 @@
 import React from "react";
-import Header from "../components/header";
+import HeaderTwo from "../components/headertwo";
 import Footer from "../components/footer";
 import heroBg from "../assets/img/bg.jpg";
 import administratorImg from "../assets/img/administration/administrator.jpg";
@@ -9,7 +9,7 @@ import MudassirImg from "../assets/img/administration/mudassir.jpg";
 const Administration = () => {
   return (
     <>
-      <Header />
+      <HeaderTwo />
       <section
         className="breadcrumb breadcrumb_bg"
         style={{ backgroundImage: `url(${heroBg})` }}

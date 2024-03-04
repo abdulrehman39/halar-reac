@@ -1,5 +1,5 @@
 import React from "react";
-import Header from "../components/header";
+import HeaderTwo from "../components/headertwo";
 import Footer from "../components/footer";
 import ChairmanImg from "../assets/img/administration/chairman.jpg";
 import heroBg from "../assets/img/bg.jpg";
@@ -7,7 +7,7 @@ import heroBg from "../assets/img/bg.jpg";
 const ChairmanMessage = () => {
   return (
     <>
-      <Header />
+      <HeaderTwo />
       {/* Hero Start Start */}
       <section
         className="breadcrumb breadcrumb_bg"

@@ -1,6 +1,6 @@
 import React from "react";
 import Footer from "../components/footer";
-import Header from "../components/header";
+import HeaderTwo from "../components/headertwo";
 import building_fill from "../assets/svg/building-fill.svg";
 import telephone from "../assets/svg/telephone.svg";
 import envelope from "../assets/svg/envelope.svg";
@@ -9,7 +9,7 @@ import contactImg from "../assets/img/contact.jpeg";
 const Contact = () => {
   return (
     <>
-      <Header />
+      <HeaderTwo />
       <section
         className="breadcrumb breadcrumb_bg"
         style={{ backgroundImage: `url(${contactImg})` }}

@@ -1,5 +1,5 @@
 import React from "react";
-import Header from "../components/header";
+import HeaderTwo from "../components/headertwo";
 import Footer from "../components/footer";
 import BgImg from "../assets/img/bg.jpg";
 import MakeupImg from "../assets/img/courses/vt/make-up.jpg";
@@ -15,7 +15,7 @@ import BeauticianImg from "../assets/img/courses/vt/beautician.jpg";
 const DeptofVt = () => {
   return (
     <>
-      <Header />
+      <HeaderTwo />
       {/* Hero Start Start */}
       <section
         className="breadcrumb breadcrumb_bg"

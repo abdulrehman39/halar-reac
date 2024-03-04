@@ -1,5 +1,5 @@
 import React from "react";
-import Header from "../components/header";
+import HeaderTwo from "../components/headertwo";
 import Footer from "../components/footer";
 import facultyImg from "../assets/img/faculty.jpg";
 import FemaleImg from "../assets/img/faculty/female.png";
@@ -14,7 +14,7 @@ import TalhaImg from "../assets/img/faculty/talha.jpg";
 const FacultyHiet = () => {
   return (
     <>
-      <Header />
+      <HeaderTwo />
       {/* Hero Start Start */}
       <section
         className="breadcrumb breadcrumb_bg"
