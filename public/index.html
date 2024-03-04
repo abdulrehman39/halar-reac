@@ -24,7 +24,11 @@
       work correctly both with client-side routing and a non-root public URL.
       Learn how to configure a non-root public URL by running `npm run build`.
     -->
-    <title>React App</title>
+    <link rel="stylesheet" href="assets/vendor/css/flaticon.css" />
+    <link rel="stylesheet" href="assets/vendor/css/magnific-popup.css" />
+    <link rel="stylesheet" href="assets/vendor/css/slick.css" />
+    <link rel="stylesheet" href="assets/vendor/aos/aos.css" />
+    <title>Halar-IET</title>
   </head>
   <body>
     <noscript>You need to enable JavaScript to run this app.</noscript>
@@ -40,4 +44,30 @@
       To create a production bundle, use `npm run build` or `yarn build`.
     -->
   </body>
+  <script src="assets/vendor/js/jquery-1.12.1.min.js"></script>
+  <script src="assets/vendor/js/popper.min.js"></script>
+  <script src="assets/vendor/js/bootstrap.min.js"></script>
+  <script src="assets/vendor/js/jquery.magnific-popup.js"></script>
+  <script src="assets/vendor/js/swiper.min.js"></script>
+  <script src="assets/vendor/js/masonry.pkgd.js"></script>
+  <script src="assets/vendor/js/jquery.nice-select.min.js"></script>
+  <script src="assets/vendor/js/slick.min.js"></script>
+  <script src="assets/vendor/js/waypoints.min.js"></script>
+  <script src="assets/vendor/aos/aos.js"></script>
+  <script src="assets/js/custom.js"></script>
+  <script>
+    (function () {
+      "use strict";
+      /**
+       * Animation on scroll
+       */
+      window.addEventListener("load", () => {
+        AOS.init({
+          duration: 1500,
+          once: false,
+          mirror: false,
+        });
+      });
+    })();
+  </script>
 </html>
