@@ -29,7 +29,7 @@ const HomePage = () => {
                   <a href="#departments" className="btn_1">
                     View Course{" "}
                   </a>
-                  <a href="#" className="btn_2">
+                  <a href="/" className="btn_2">
                     Get Started{" "}
                   </a>
                 </div>

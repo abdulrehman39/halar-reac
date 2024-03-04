@@ -1,4 +1,6 @@
+import React, { useEffect } from "react";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import { createBrowserHistory } from "history"; // Import createBrowserHistory
 import HomePage from "./pages/home";
 import AboutPage from "./pages/about";
 import ChairmanMessage from "./pages/chairman";
@@ -15,9 +17,21 @@ import "./bootstrap.css";
 import "./App.css";
 
 function App() {
+  const history = createBrowserHistory(); // Use createBrowserHistory to create history object
+
+  useEffect(() => {
+    const unlisten = history.listen(() => {
+      // Handle route changes if needed
+    });
+
+    return () => {
+      unlisten();
+    };
+  }, [history]);
+
   return (
     <>
-      <Router>
+      <Router history={history}>
         <div>
           <Routes>
             <Route exact path="/" element={<HomePage />} />

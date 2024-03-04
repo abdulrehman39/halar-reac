@@ -306,17 +306,17 @@ const LatestNews = () => {
                     <td>1</td>
                     <td>D.I.T</td>
                     <td>
-                      <a className="table-a" href="#">
+                      <a className="table-a" href="/Latest-News">
                         Result
                       </a>
                     </td>
                     <td>
-                      <a className="table-a" href="#">
+                      <a className="table-a" href="/Latest-News">
                         Result
                       </a>
                     </td>
                     <td>
-                      <a className="table-a" href="#">
+                      <a className="table-a" href="/Latest-News">
                         Result
                       </a>
                     </td>
@@ -325,17 +325,17 @@ const LatestNews = () => {
                     <td>2</td>
                     <td>C.I.T</td>
                     <td>
-                      <a className="table-a" href="#">
+                      <a className="table-a" href="/Latest-News">
                         Result
                       </a>
                     </td>
                     <td>
-                      <a className="table-a" href="#">
+                      <a className="table-a" href="/Latest-News">
                         Result
                       </a>
                     </td>
                     <td>
-                      <a className="table-a" href="#">
+                      <a className="table-a" href="/Latest-News">
                         Result
                       </a>
                     </td>
@@ -344,17 +344,17 @@ const LatestNews = () => {
                     <td>3</td>
                     <td>S.C</td>
                     <td>
-                      <a className="table-a" href="#">
+                      <a className="table-a" href="/Latest-News">
                         Result
                       </a>
                     </td>
                     <td>
-                      <a className="table-a" href="#">
+                      <a className="table-a" href="/Latest-News">
                         Result
                       </a>
                     </td>
                     <td>
-                      <a className="table-a" href="#">
+                      <a className="table-a" href="/Latest-News">
                         Result
                       </a>
                     </td>
@@ -381,17 +381,17 @@ const LatestNews = () => {
                     <td>1</td>
                     <td>D.I.T</td>
                     <td>
-                      <a className="table-a" href="#">
+                      <a className="table-a" href="/Latest-News">
                         Result
                       </a>
                     </td>
                     <td>
-                      <a className="table-a" href="#">
+                      <a className="table-a" href="/Latest-News">
                         Result
                       </a>
                     </td>
                     <td>
-                      <a className="table-a" href="#">
+                      <a className="table-a" href="/Latest-News">
                         Result
                       </a>
                     </td>
@@ -400,17 +400,17 @@ const LatestNews = () => {
                     <td>2</td>
                     <td>C.I.T</td>
                     <td>
-                      <a className="table-a" href="#">
+                      <a className="table-a" href="/Latest-News">
                         Result
                       </a>
                     </td>
                     <td>
-                      <a className="table-a" href="#">
+                      <a className="table-a" href="/Latest-News">
                         Result
                       </a>
                     </td>
                     <td>
-                      <a className="table-a" href="#">
+                      <a className="table-a" href="/Latest-News">
                         Result
                       </a>
                     </td>
@@ -419,17 +419,17 @@ const LatestNews = () => {
                     <td>3</td>
                     <td>S.C</td>
                     <td>
-                      <a className="table-a" href="#">
+                      <a className="table-a" href="/Latest-News">
                         Result
                       </a>
                     </td>
                     <td>
-                      <a className="table-a" href="#">
+                      <a className="table-a" href="/Latest-News">
                         Result
                       </a>
                     </td>
                     <td>
-                      <a className="table-a" href="#">
+                      <a className="table-a" href="/Latest-News">
                         Result
                       </a>
                     </td>
@@ -456,17 +456,17 @@ const LatestNews = () => {
                     <td>1</td>
                     <td>D.I.T</td>
                     <td>
-                      <a className="table-a" href="#">
+                      <a className="table-a" href="/Latest-News">
                         Result
                       </a>
                     </td>
                     <td>
-                      <a className="table-a" href="#">
+                      <a className="table-a" href="/Latest-News">
                         Result
                       </a>
                     </td>
                     <td>
-                      <a className="table-a" href="#">
+                      <a className="table-a" href="/Latest-News">
                         Result
                       </a>
                     </td>
@@ -475,17 +475,17 @@ const LatestNews = () => {
                     <td>2</td>
                     <td>C.I.T</td>
                     <td>
-                      <a className="table-a" href="#">
+                      <a className="table-a" href="/Latest-News">
                         Result
                       </a>
                     </td>
                     <td>
-                      <a className="table-a" href="#">
+                      <a className="table-a" href="/Latest-News">
                         Result
                       </a>
                     </td>
                     <td>
-                      <a className="table-a" href="#">
+                      <a className="table-a" href="/Latest-News">
                         Result
                       </a>
                     </td>
@@ -494,17 +494,17 @@ const LatestNews = () => {
                     <td>3</td>
                     <td>S.C</td>
                     <td>
-                      <a className="table-a" href="#">
+                      <a className="table-a" href="/Latest-News">
                         Result
                       </a>
                     </td>
                     <td>
-                      <a className="table-a" href="#">
+                      <a className="table-a" href="/Latest-News">
                         Result
                       </a>
                     </td>
                     <td>
-                      <a className="table-a" href="#">
+                      <a className="table-a" href="/Latest-News">
                         Result
                       </a>
                     </td>
